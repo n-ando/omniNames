@@ -1,6 +1,6 @@
 # omniNames
-omniNames which is a part of omniORB 4.2.3, is an implementation of a CORBA naming service.
-This package provides independent buildable omniNames.
+"omniNames" which is a part of omniORB 4.2.3, is an implementation of a CORBA naming service.
+This package provides independently buildable the "omniNames."
 
 ## How to build
 1. Install omniORB runtime library and development headers.
