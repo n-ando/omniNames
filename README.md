@@ -3,6 +3,7 @@
 This package provides independently buildable the "omniNames."
 
 ## How to build
+
 1. Install omniORB runtime library and development headers.
 1. Edit Makefile and change ARCH variable according to your target architecture.
 1. make
