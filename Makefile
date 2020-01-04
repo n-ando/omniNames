@@ -7,7 +7,8 @@
 # Please change ARCH variable for the target architecture.
 #
 
-ARCH = __x86_64__
+# ARCH = __x86_64__
+ARCH = __arm__
 CXX_CPPFLAGS   = -c -O2 -Wall -Wno-unused -fexceptions -I.
 CORBA_CPPFLAGS = -D__OMNIORB4__ -D_REENTRANT -D__OSVERSION__=2 -D__linux__ -D$(ARCH) 
 DIR_CPPFLAGS   = -DDEFAULT_LOGDIR='"/var/lib/omninames"'
